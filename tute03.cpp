@@ -22,7 +22,7 @@ int main()
     }
 
     //printf("Factorial of %d is %ld\n", no, fac);  
-    cout << "Factorial of " << no << "is" << fac << "\n";
-    
+    cout << "Factorial of " << no << " is " << fac << "\n";
+
     return 0;
 }
